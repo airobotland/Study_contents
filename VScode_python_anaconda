@@ -1,1 +1,13 @@
+phthon을 위한 VScode, anaconda 의 설정과 연결
 
+VScode
+1. 작업디렉토리를 만든다
+2. 작업디렉토리에서 code . 을 친다.
+
+1. 작업디렉토리를 만든다.
+2. VScode를 열고, 폴더열기에서 해당 폴더를 연다.
+
+VScode를 Ananconda와 연결하기
+
+Anaconda
+1. update
